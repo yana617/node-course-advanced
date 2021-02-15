@@ -7,3 +7,4 @@ udemy.com online course
 - cluster
 - ab (benchmarking)
 - web-worker
+- redis
