@@ -8,4 +8,5 @@ udemy.com online course
 - ab (benchmarking)
 - web-worker
 - redis
-- puppeteer
+- puppeteer (automated headless browser testing)
+- travis CI
